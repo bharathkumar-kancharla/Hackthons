@@ -1,4 +1,4 @@
-This challenge is part of HackerEarth competiton. [Click here](https://www.hackerearth.com/challenges/hiring/hcl-ml-hiring-2020/) for more details about the context
+This challenge is part of HackerEarth competiton. [Click here](https://www.hackerearth.com/challenges/hiring/hcl-ml-hiring-2020/) for more details about the contest
 
 # ABOUT CHALLENGE
 
