@@ -72,4 +72,6 @@ Total score is based on number of documents you have successfully extracted the 
 2. **Text Annotation:** https://www.cogitotech.com/text-annotation/
 3. **Accenture way to extract details from text:** https://www.searchtechnologies.com/blog/natural-language-processing-techniques
 4. **Web scrapping code for uploading the records in file and obtaining the score:** https://github.com/CP-4/Auto-Submit-Hcl
+5. **How to Tokenise the sentences:** https://www.geeksforgeeks.org/nlp-how-tokenizing-text-sentence-words-works/
+6. **How to extract Keywords from text:** https://towardsdatascience.com/textrank-for-keyword-extraction-by-python-c0bae21bcec0
 
