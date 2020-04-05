@@ -64,3 +64,12 @@ Total score is based on number of documents you have successfully extracted the 
 	  score = score+1 `
 
 **Note:**  Uploading source code is mandatory for for manual evaluation of algorithm used. 
+
+
+## Additional Resources:
+
+	1. **Ways to extract information from invoices:** https://www.hypi.io/post/reading-text-from-invoice-images-with-python
+	2. **Text Annotation:** https://www.cogitotech.com/text-annotation/
+	3. **Accenture way to extract details from text:** https://www.searchtechnologies.com/blog/natural-language-processing-techniques
+	4. **Web scrapping code for uploading the records in file and obtaining the score:** https://github.com/CP-4/Auto-Submit-Hcl
+
